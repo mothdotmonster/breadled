@@ -1,4 +1,4 @@
 # breadled
-a breadboardable WS2812B/E breakout board
+a breadboardable WS2812B breakout board
 
 ![image.png](image.png)
