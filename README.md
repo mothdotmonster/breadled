@@ -1,4 +1,6 @@
 # breadled
-a breadboardable WS2812B breakout board
+a breadboardable WS2812 breakout board
 
-![image.png](image.png)
+![the thingy](images/justone.jpg)
+
+![on breadboard](images/breadboard.jpg)
