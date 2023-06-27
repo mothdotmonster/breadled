@@ -7,4 +7,5 @@ BREADLED is a breakout board for WS2812 addressable LEDs, designed to fit perfec
 
 ![on breadboard](images/breadboard.jpg)
 
-![pinout](images/pinsmol.png)
+PINOUT:
+![pinout](https://github.com/mothdotmonster/breadled/assets/82258270/65aa2263-6491-411a-be30-1bd54a6955f9)
